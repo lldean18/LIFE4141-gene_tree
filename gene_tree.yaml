@@ -1,0 +1,12 @@
+name: phylogeny
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+  - r
+dependencies:
+ - muscle=5.2
+ - iqtree=2.3.6
+ - mafft=7.525
+ - blast=2.16.0
+ - ete3=3.1.3
